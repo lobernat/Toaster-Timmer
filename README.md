@@ -12,3 +12,6 @@ Also there is a buzzer
 - Short press -> one beep
 - Long press -> double beep
 - Bread ready -> alarm music
+
+Hardware:
+- I use a board Sonoff basic. Because has 220v PSU and relay for 4 Euro aprox.
